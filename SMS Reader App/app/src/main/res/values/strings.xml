@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS Reader App</string>
+    <string name="ok">Okay</string>
+    <string name="no_messages">No Messages So Far !!</string>
+    <string name="permission_required_header">SMS Permission required !!</string>
+    <string name="permission_required_desc_1">Please allow the permission to Read SMS.</string>
+    <string name="permission_required_desc_2">Can\'t open the app without Read SMS permission.\nPlease Grant the permission to use the App.</string>
+</resources>
